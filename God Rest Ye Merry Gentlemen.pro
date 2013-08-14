@@ -2,6 +2,8 @@
 {subtitle:Traditional}
 {artist:Traditional 18th Century London Carol}
 {flow:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus,Verse 6,Chorus,Verse 7,Chorus}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
 
 Verse 1:
 God rest you merry, gentlemen,

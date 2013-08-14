@@ -1,7 +1,9 @@
 {title:Bring A Torch, Jeannette, Isabella}
 {subtitle:Un Flambeau, Jeannette, Isabelle}
 {artist:Traditional}
-{words:Traditional 17th Century French Carol - Translated by E. Cuthbert Nunn, 1868-1914}Verse 1:Bring a torch, Jeannette, Isabella,
+{words:Traditional 17th Century French Carol - Translated by E. Cuthbert Nunn, 1868-1914}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.phpVerse 1:Bring a torch, Jeannette, Isabella,
 Bring a torch, to the cradle run!
 It is Jesus, good folk of the village;
 Christ is born and Mary's calling:

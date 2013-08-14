@@ -1,6 +1,8 @@
 {title:We Three Kings Of Orient Are}
 {artist:John H. Hopkins, 1857}
 {flow:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
 
 Verse 1:
 We three kings of Orient are;

@@ -1,6 +1,8 @@
 {title:What Child Is This?}
 {text:William Dix, ca 1865}
 {music:GREENSLEEVES, a 17th Century English Air}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
 
 Verse 1:
 What Child is this, Who, laid to rest

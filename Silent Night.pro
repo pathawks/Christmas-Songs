@@ -3,6 +3,9 @@
 {text:Joseph Mohr, 1818}
 {translation:v.1-3: from C.L. Hutchins' Sunday School Hymnal, 1871 (Recently attributed to John Freeman Young 1820-1885)}
 {music: Franz Gruber, 1818}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   https://www.songclearance.com/Christmas%20Music:%20Public%20Domain%20vs.%20Copyrighted%20Works
 
 Verse 1:
 Silent night, holy night!

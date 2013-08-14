@@ -2,6 +2,9 @@
 {text:Charles Wesley, 1739 - Altered by George Whitfield, 1753}
 {music:Felix Mendelssohn, 1840}
 {arrangment: William Cummings, 1850}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   https://www.songclearance.com/Christmas%20Music:%20Public%20Domain%20vs.%20Copyrighted%20Works
 
 Verse 1:
 Hark! The herald angels sing,

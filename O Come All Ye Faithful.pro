@@ -2,6 +2,9 @@
 {subtitle:Adeste Fideles}{Latin Text:J.F. Wade}
 {Translation:Frederick Oakley, alt. 1841}
 {music:J.F. Wade, ca 1740}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   https://www.songclearance.com/Christmas%20Music:%20Public%20Domain%20vs.%20Copyrighted%20Works
 
 Verse 1:
 O come, all ye faithful, joyful and triumphant,

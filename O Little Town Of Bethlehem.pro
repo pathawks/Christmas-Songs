@@ -1,6 +1,8 @@
 {title:O Little Town Of Bethlehem}
 {text:Phillips Brooks, 1868-1893}
 {music:Lewis H. Redner, 1868-1908}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
 
 Verse 1:
 O little town of Bethlehem,how still we see thee lie!
