@@ -1,6 +1,6 @@
 ## Public Domain Christmas Songs
 
-This is a collection of Christmas Carols that are believed to be in the Public Domain. They have been marked up in the ChordPro format.
+This is a collection of Christmas Carols that are believed to be in the Public Domain. They have been marked up in the [ChordPro format](http://www.vromans.org/johan/projects/Chordii/chordpro/).
 
 Because these songs are believed to be in the Public Domain, they are free to download, use, perform, record, edit, distribute, etc.
 
