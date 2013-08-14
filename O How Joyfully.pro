@@ -1,0 +1,35 @@
+{title:O How Joyfully}
+{subtitle:O du fröhliche O du selige}
+{text:Johannes Falk, 1816}
+{Translated:George K. Evans, 1963}
+{music:From Latin Hymn, "O Sanctissima"}
+{ccli:4340270}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=4340270
+
+Verse 1:
+O how joyfully,
+O how blessedly,
+Comes the glory of Christmas time!
+To a world so lost in sin,
+Christ the Savior enters in:
+Praise Him, all ye Christians
+praise Him evermore!
+ 
+2:
+O how joyfully,
+O how blessedly,
+Comes the glory of Christmas time!
+Jesus, born in lowly stall
+With His grace redeems us all:
+Praise Him, all ye Christians
+praise Him evermore!
+
+Verse 3:
+O how joyfully,
+O how blessedly,
+Comes the glory of Christmas time!
+Hosts of angels from on high
+Sing, rejoicing, in the sky:
+Praise Him, all ye Christians
+praise Him evermore!
