@@ -1,0 +1,32 @@
+{title:The Friendly Beasts}
+{text:Robert Davis}
+{music:French 12th Century melody}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/friendly_beasts.htm
+
+Verse 1:
+Jesus our brother, kind and good Was humbly born in a stable rude And the friendly beasts around Him stood, Jesus our brother, kind and good.
+
+Verse 2:
+"I," said the donkey, shaggy and brown, "I carried His mother up hill and down; I carried her safely to Bethlehem town." "I," said the donkey, shaggy and brown.
+
+Verse 3:
+"I," said the cow all white and red "I gave Him my manger for His bed; I gave him my hay to pillow his head." "I," said the cow all white and red.
+
+Verse 4:
+"I," said the sheep with curly horn, "I gave Him my wool for His blanket warm; He wore my coat on Christmas morn." "I," said the sheep with curly horn.
+
+Verse 5:
+"I," said the camel, yellow and black,
+"Over the dessert upon my back,
+I brought Him a gift in the wise men's pack.
+"I," said the camel, yellow and black.
+
+Verse 6:
+5. "I," said the dove from the rafters high, "I cooed Him to sleep so He would not cry; We cooed him to sleep, my mate and I." "I," said the dove from the rafters high.
+
+Verse 7:
+Thus every beast by some good spell, In the stable dark was glad to tell Of the gift he gave Immanuel, The gift he gave Immanuel.
+
+Verse 8:
+"I," was glad to tell Of the gift he gave Immanuel, The gift he gave Immanuel. Jesus our brother, kind and good.
