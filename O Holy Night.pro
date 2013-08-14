@@ -3,8 +3,10 @@
 {text: Cappeau de Roquemaure}
 {translated:John S. Dwight, 1813-1893}
 {music:Adolphe Adam, 1803-1856}
+{ccli:32015}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=32015
 
 Verse 1:
 O holy night! The stars are brightly shining.

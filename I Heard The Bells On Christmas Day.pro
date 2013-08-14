@@ -2,8 +2,10 @@
 {subtitle:}
 {text: Henry W. Longfellow, 1863
 {music: J. Baptiste Calkin, 1872}
+{ccli:109663}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=109663
 
 Verse 1:
 I heard the bells on Christams Day

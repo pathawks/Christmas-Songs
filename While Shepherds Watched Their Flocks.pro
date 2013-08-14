@@ -1,8 +1,10 @@
-{title:While Shepherds Watched Their Flocks}
+{title:While Shepherds Watch Their Flocks}
 {text:Nahtum Tate, 1652-1715. cento. alt.}
 {music:Adapted from George Frederick Handel, 1685-1759}
+{ccli:6093817}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=6093817
 
 Verse 1:
 While shepherds watched their flocks by night,

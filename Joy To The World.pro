@@ -1,9 +1,11 @@
 {title:Joy To The World}
-{text: Isaac Watts, 1719}
+{text:Isaac Watts, 1719}
 {music:Adapted from George F. Handel, 1742}
+{ccli:24016}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
 #   https://www.songclearance.com/Christmas%20Music:%20Public%20Domain%20vs.%20Copyrighted%20Works
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=24016
 
 Verse 1:
 Joy to the world! the Lord is come;

@@ -1,0 +1,42 @@
+{title:See, Amid The Winter's Snow}
+{text:E. Caswell 1814-1878}
+{music:John Gross}
+{flow:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus,Verse 5,Chorus}
+{ccli:260784}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=260784
+
+Verse 1:
+See, amid the winter's snow,
+Born for us on earth below;
+See, the tender lamb appears,
+Promised from eternal years.
+
+{soc}Hail, thou ever blessed morn,
+Hail, redemption's happy dawn!
+Sing through all Jerusalem:Christ is born in Bethlehem!
+{eoc}
+
+Verse 2:
+Lo, within a manger lies
+He, who built the starry skies;
+He, who throned in heights sublime,
+Sit amid the Cherubim.
+
+Verse 3:
+Sacred Infant, all devine,
+What a tender love was Thine,
+Thus to come from highest bliss
+Down to such a world as this.
+
+Verse 4:
+Teach, oh, teach us, Holy Child,
+By Thy face so meek and mild,
+Teach us to resemble Thee
+In Thy sweet humility.
+
+Verse 5:
+Virgin Mother, Mary blest,
+By the joys that fill thy breast,
+Pray for us, that we may prove
+Worthy of the Savior's love.  

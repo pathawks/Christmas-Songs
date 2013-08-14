@@ -1,0 +1,15 @@
+{title:In Dulci Jubilo}
+{subtitle:14th Century German Carol}
+{artist:Tr. R.L. de Pearsall (1795-1856)}
+{ccli:324981}
+# This song is believed to be in the public domain. More information can be found at:
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=324981
+
+In dulci jubilo,
+Let us our homage show;
+Our hearts joy reclineth
+In praesepio,
+And like a bright star shineth
+Matris in gremio;
+Alpha est et O,
+Alpha est et O.

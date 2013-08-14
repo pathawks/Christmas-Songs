@@ -2,10 +2,12 @@
 {subtitle:Veni, Emmanuel}
 {text: 9th Century Latin - Published in Cologne, 1710}{Translation:John M. Neale, 1818-1866}
 {music: 13th Century Plainsong}
+{ccli:31982}
 # Adapted by Thomas Helmore, 1854
 #
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=31982
 
 Verse 1:
 O come, O come, Emmanuel,

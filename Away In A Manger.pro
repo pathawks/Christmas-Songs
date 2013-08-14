@@ -2,8 +2,10 @@
 {subtitle:}
 {text:Anonymous - American 19th century}
 {Music:Anonymous - American 19th century}
+{ccli:38583}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=38583
 
 Verse 1:
 Away in a manger, no crib for a bed,

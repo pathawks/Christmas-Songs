@@ -1,8 +1,10 @@
 {title:It Came Upon The Midnight Clear}
 {text:Edmund H. Sears, 1846 alt.
 {music:Richard S. Willis, 1850}
+{ccli:31078}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
+#   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=31078
 
 Verse 1:
 It came upon the midnight clear,
