@@ -1,21 +1,22 @@
-{title:Angels From The Realms Of Glory}
+{title: Angels From The Realms Of Glory}
 {subtitle:}
-{text:James Montgomery}
-{music:Henry Smart}
-{flow:Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus}
-{ccli:31669}
-{time:4/4}
-{key:Bb}
-{capo:3}
+{text: James Montgomery}
+{music: Henry Smart}
+{flow: Verse 1,Chorus,Verse 2,Chorus,Verse 3,Chorus,Verse 4,Chorus}
+{ccli: 31669}
+{time: 4/4}
+{key: Bb}
+{capo: 3}
 # This song is believed to be in the public domain. More information can be found at:
 #   http://www.pdinfo.com/PD-Music-Genres/PD-Christmas-Songs.php
 #   http://www.ccli.com/Licenseholder/Search/SongSearch.aspx?s=31669
 
-Verse 1:
+{start_of_verse}
 [G]Angels, from the realms of glory,
 [C]Wing your [G]flight o'er [D]all the [G]earth;
 [G]Ye, who sang creation's [Em/B]sto[B]ry,
 [Em]Now proclaim Mes[A]siah's [D]birth:
+{end_of_verse}
 
 {soc}
 [D]Come and worship,
@@ -23,22 +24,25 @@ Verse 1:
 [Am]Worship [C]Christ, the [D]newborn [G]King
 {eoc}
 
-Verse 2:
+{start_of_verse}
 [G]Shepherd's in the field abiding,
 [C]Watching [G]o'er your [D]flocks by [G]night;
 [G]God with man is now re[Em/B]si[B]ding,
 [Em]Yonder shines the [A]infant [D]light:
+{end_of_verse}
 
-Verse 3:
+{start_of_verse}
 [G]Sages, leave your contemplations,
 [C]Brighter [G]visions [D]beam a[G]far;
 [G]Seek the great Desire of [Em/B]na[B]tions,
 [Em]Ye have seen His [A]natal [D]star:
+{end_of_verse}
 
 # Verse 4 from Salisbury Hymn-Book, 1857
 #   http://books.google.com/books?id=or9VAAAAcAAJ&pg=PA43#v=onepage&q&f=false
-Verse 4:
+{start_of_verse}
 [G]Saints and angels join in praising
 [C]Thee; the [G]Father, [D]Spirit, [G]Son!
 [G]Evermore their voices [Em/B]rais[B]ing
 [Em]to th'eternal [A]Three in [D]One.
+{end_of_verse}
