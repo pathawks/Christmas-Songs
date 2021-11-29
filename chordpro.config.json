@@ -160,6 +160,11 @@
     "contents" : [
     { 
         "fields"   : [ "sorttitle" ],
+        "label"    : "Table of Contents",
+        "line"     : "%{title}",
+        "pageno"   : "%{page}",
+        "fold"     : false,
+        "omit"     : false,
 	},
     ],
     // Table of contents, old style.
