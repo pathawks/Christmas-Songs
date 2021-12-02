@@ -60,6 +60,9 @@
 		 "artist", "composer", "lyricist", "arranger",
 		 "album", "copyright", "year",
 		 "sorttitle",
+		 "ccli", "music", "text", "flow", "translation",
+		 "arrangement", "words", "translated", "arrangment",
+		 "Latin Text",
 		 "key", "time", "tempo", "capo", "duration" ],
       "strict" : true,
       "separator" : "; ",
@@ -268,7 +271,7 @@
       },
 
       // Papersize, 'a4' or [ 595, 842 ] etc.
-      "papersize" : "a4",
+      "papersize" :[ 612, 792 ],
 
       "theme" : {
           "foreground" : "black",
@@ -335,7 +338,7 @@
 	  // Alignment for the labels. Default is left.
 	  "align" : "left",
 	  // Alternatively, render labels as comments.
-	  "comment" : ""	// "comment", "comment_italic" or "comment_box",
+	  "comment" : "comment"	// "comment", "comment_italic" or "comment_box",
       },
 
       // Alternative songlines with chords in a side column.
@@ -431,9 +434,9 @@
 	  "title" : {
 	      // Title and subtitle.
 	      "title"     : [ "", "%{title}", "" ],
-	      "subtitle"  : [ "", "%{subtitle}", "" ],
+	      "subtitle"  : [ "", "%{subtitle}%{music|\r\nMusic: %{}}", "" ],
 	      // Footer with page number.
-	      "footer"    : [ "", "", "%{page}" ],
+	      "footer"    : [ "%{ccli|CCLI: %{}}", "", "%{page}" ],
 	  },
 	  // The very first output page is slightly different:
 	  "first" : {
@@ -487,6 +490,14 @@
 	  "dingbats" : {
 	      ""            : "ZapfDingbats",
 	  },
+	  "mono" : {
+	      ""            : "SourceSansPro",
+	      "bold"            : "SourceSansPro",
+	      "italic"            : "SourceSansPro",
+	      "oblique"            : "SourceSansPro",
+	      "bolditalic"            : "SourceSansPro",
+	      "boldoblique"            : "SourceSansPro",
+	  },
       },
 
       // "fonts" maps output elements to fonts as defined in "fontconfig".
@@ -498,7 +509,7 @@
 
       "fonts" : {
 	  "title" : {
-	      "name" : "Times-Bold",
+	      "name" : "Times-Roman",
 	      "size" : 14
 	  },
 	  "text" : {
@@ -529,7 +540,7 @@
 	      "frame" : 1
 	  },
 	  "tab" : {
-	      "name" : "Courier",
+	      "name" : "mono",
 	      "size" : 10
 	  },
 	  "toc" : {
